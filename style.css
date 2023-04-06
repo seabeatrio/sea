@@ -317,5 +317,6 @@ font-size:14px;
 }
 .contanier-fake img{
     display:flex;
-    
+    max-width:400px;
+
 }
