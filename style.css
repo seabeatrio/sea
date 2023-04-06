@@ -192,6 +192,7 @@ font-family: 'Poppins', sans-serif;
     width:400px;
     height:400px;
 
+
 }
 .contanier-low{
     width:1400px;
@@ -313,4 +314,8 @@ font-size:14px;
 .pictire{
     display:flex;
     justify-self:flex-end;
+}
+.contanier-fake img{
+    display:flex;
+    
 }
