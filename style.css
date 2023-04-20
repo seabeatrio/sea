@@ -264,7 +264,8 @@ width:70px;
 height:70px;
 display:flex;
 justify-content:center;
-align-self:flex-end;
+align-self:end;
+align-items: center;
 
 
 }
