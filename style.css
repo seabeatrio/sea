@@ -430,7 +430,7 @@ margin-top:17px;
 }
 
 }
-@media(max-width:756px) {
+@media screen and (max-width:756px) {
     .navigation-holder{
         display:none;
     }
@@ -454,7 +454,7 @@ margin-top:17px;
     }
 
 }
-@media(max-width:578px) {
+@media screen and  (max-width:481px) {
 .navigation-holder{
     display:none;
 }
