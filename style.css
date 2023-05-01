@@ -436,7 +436,27 @@ margin-top:17px;
 
 }
 @media(max-width:756px) {
-
+    .navigation-holder{
+        display:none;
+    }
+    .box-centery{
+        display:none;
+    }
+    .text-p{
+        font-size:60px;
+    }
+    .mob-btn{
+        display:inline-block;
+        text-decoration: none;
+        color:#fff;
+        font-size:60px;
+    }
+    .main-reverse,  .contanier-men{
+    width:100%;
+    }
+    .men{
+        display:none;
+    }
 
 }
 @media(max-width:578px) {
