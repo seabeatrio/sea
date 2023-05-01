@@ -430,7 +430,10 @@ margin-top:17px;
 }
 
 }
-@media screen and (max-width:756px) {
+@media  (max-width:756px) {
+    .contanier{
+        margin-right:900px;
+    }
     .navigation-holder{
         display:none;
     }
@@ -454,7 +457,7 @@ margin-top:17px;
     }
 
 }
-@media screen and  (max-width:481px) {
+@media (max-width:481px) {
 .navigation-holder{
     display:none;
 }
@@ -476,8 +479,11 @@ width:100%;
 .men{
     display:none;
 }
+.contanier-fake{
+    margin-right:900px;
+}
 }
 .mob-btn{
     display:none;
-    color:#d1d1d1;
+    color:#da0000;
 }
