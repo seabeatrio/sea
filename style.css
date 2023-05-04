@@ -457,7 +457,7 @@ margin-top:17px;
     }
 
 }
-@media (max-width:481px) {
+@media(max-width:481px){
 .navigation-holder{
     display:none;
 }
@@ -479,8 +479,9 @@ width:100%;
 .men{
     display:none;
 }
-.contanier-fake{
-    margin-right:900px;
+.girl-avatar{
+    position: relative;
+    left:400px;
 }
 }
 .mob-btn{
