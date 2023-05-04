@@ -431,9 +431,10 @@ margin-top:17px;
 
 }
 @media  (max-width:756px) {
-    .contanier{
-        position:relative;
-        right:200px;
+    .logo{
+        position: relative;
+        right:172px;
+        bottom: 20px;
     }
     .navigation-holder{
         display:none;
@@ -442,7 +443,8 @@ margin-top:17px;
         display:none;
     }
     .text-p{
-        font-size:60px;
+        font-size:50px;
+        line-height: 80px;
     }
     .mob-btn{
         display:inline-block;
@@ -456,6 +458,22 @@ margin-top:17px;
     .men{
         display:none;
     }
+    .class-text{
+        position: relative;
+        right:174px;
+        bottom: 70px;
+    }
+    .box{
+        position: relative;
+        right:173px;
+        bottom: 70px;
+    }
+    .contanier-low{
+        position: relative;
+        right:173px;
+        bottom: 140px;
+    }
+   
 
 }
 @media(max-width:481px){
