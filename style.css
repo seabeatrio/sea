@@ -443,7 +443,7 @@ margin-top:17px;
         display:none;
     }
     .text-p{
-        font-size:50px;
+        font-size:60px;
         line-height: 80px;
     }
     .mob-btn{
@@ -473,8 +473,10 @@ margin-top:17px;
         right:173px;
         bottom: 140px;
     }
-   
-
+    .girl-avatar{
+        width:250px;
+        height:250px;
+    }
 }
 @media(max-width:481px){
 .navigation-holder{
@@ -484,7 +486,7 @@ margin-top:17px;
     display:none;
 }
 .text-p{
-    font-size:60px;
+    font-size:50px;
 }
 .mob-btn{
     display:inline-block;
@@ -499,8 +501,29 @@ width:100%;
     display:none;
 }
 .girl-avatar{
+    
+    width:250px;
+    height:250px;
+}
+.class-text{
     position: relative;
-    left:400px;
+    right:174px;
+    bottom: 70px;
+}
+.box{
+    position: relative;
+    right:173px;
+    bottom: 70px;
+}
+.contanier-low{
+    position: relative;
+    right:193px;
+    bottom: 140px;
+}
+.logo{
+    position: relative;
+    right:172px;
+    bottom: 20px;
 }
 }
 .mob-btn{
