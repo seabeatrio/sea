@@ -7,7 +7,7 @@
     margin:0 auto;
    background-color:#1a1a1a;
    max-height:170vh;
-   width:100%
+   width:1850px;
    
 }
 
@@ -428,56 +428,6 @@ margin-top:17px;
 .play-music{
     order:-1;
 }
-
-}
-@media  (min-width:793px) and (max-width:991px) {
-    .logo{
-        position: relative;
-        right:172px;
-        bottom: 20px;
-    }
-    .navigation-holder{
-        display:none;
-    }
-    .box-centery{
-        display:none;
-    }
-    .text-p{
-        font-size:60px;
-        line-height: 80px;
-    }
-    .mob-btn{
-        display:inline-block;
-        text-decoration: none;
-        color:#fff;
-        font-size:60px;
-    }
-    .main-reverse,  .contanier-men{
-    width:100%;
-    }
-    .men{
-        display:none;
-    }
-    .class-text{
-        position: relative;
-        right:174px;
-        bottom: 70px;
-    }
-    .box{
-        position: relative;
-        right:173px;
-        bottom: 70px;
-    }
-    .contanier-low{
-        position: relative;
-        right:173px;
-        bottom: 140px;
-    }
-    .girl-avatar{
-        width:250px;
-        height:250px;
-    }
-}
 @media(max-width:791px){
 .navigation-holder{
     display:none;
@@ -528,4 +478,5 @@ width:100%;
 .mob-btn{
     display:none;
     color:#da0000;
+}
 }
