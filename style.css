@@ -304,7 +304,7 @@ margin-top:-31px;
     width:80px;
     height:30px;
     display:flex;
-    align-items: center;
+    align-content: center;
     justify-content:center;
     border-radius: 6px;
 }
@@ -312,10 +312,10 @@ margin-top:-31px;
 color:#ffffff;
 font-size:14px;
 display:flex;
-align-self:center;
 height: 24px;
-justify-content:center;
+justify-self:center;
 padding-right:23px;
+margin-top:2px;
 }
 .pictire{
     display:flex;
@@ -422,9 +422,66 @@ margin-top:17px;
 .exporetent{
     display:none;
 }
-@media(max-width:991px){
+.contanier-cards{
+    width:1358px;
+}
+.cards-one{
+    margin-top:100px;
+}
+.cards-two{
+    float:right;
+    margin-top:-613px;  
+}
+.cards-four{
+    float:right;
+    margin-top:-645px;
+}
+.cards-three{
+    margin-top:190px;
+}
+.popular{
+    margin-top: 130px;
+}
+@media(max-width:790px){
     .links{
         display:none !important;
+    }
+    .exporetent{
+        display:inline-block !important;
+    }
+    .centry{
+        position:relative;
+        right:210px;
+    }
+    .one{
+        position:relative;
+        right:210px;
+    }
+    .box{
+        position:relative;
+        right:212px;
+    }
+    .text-p{
+        position:relative;
+        right:212px;
+        font-size: 60px;
+        line-height: 90px;
+    }
+    .contanier-fake{
+        position:relative;
+        right:211px;
+    }
+    .seven{
+        position: relative;
+        right:1370px;
+    }
+    .two{
+        position: relative;
+        right:10px;
+    }
+    .four{
+        position: relative;
+        left:120px;
     }
     
 }
