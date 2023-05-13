@@ -419,64 +419,6 @@ margin-top:17px;
 .dfig{
     margin-left:245px;
 }
-@media(max-width:992px) {
-.contanier-low{flex-direction:column;}
-.main-reverse{
-    margin-top:60px;
-    align-self:end;
-}
-.play-music{
-    order:-1;
-}
-@media(max-width:791px){
-.navigation-holder{
-    display:none;
-}
-.box-centery{
-    display:none;
-}
-.text-p{
-    font-size:50px;
-}
-.mob-btn{
-    display:inline-block;
-    text-decoration: none;
-    color:#fff;
-    font-size:60px;
-}
-.main-reverse,  .contanier-men{
-width:100%;
-}
-.men{
-    display:none;
-}
-.girl-avatar{
+@media {
     
-    width:250px;
-    height:250px;
-}
-.class-text{
-    position: relative;
-    right:174px;
-    bottom: 70px;
-}
-.box{
-    position: relative;
-    right:173px;
-    bottom: 70px;
-}
-.contanier-low{
-    position: relative;
-    right:193px;
-    bottom: 140px;
-}
-.logo{
-    position: relative;
-    right:172px;
-    bottom: 20px;}
-}
-.mob-btn{
-    display:none;
-    color:#da0000;
-}
 }
