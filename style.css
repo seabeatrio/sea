@@ -419,6 +419,12 @@ margin-top:17px;
 .dfig{
     margin-left:245px;
 }
-@media {
+.exporetent{
+    display:none;
+}
+@media(max-width:991px){
+    .links{
+        display:none !important;
+    }
     
 }
