@@ -442,121 +442,118 @@ margin-top:17px;
 .popular{
     margin-top: 130px;
 }
-@media(max-width:790px){
+@media(max-width:990px){
     .links{
         display:none !important;
     }
-    .exporetent{
-        display:inline-block !important;
-    }
-    .centry{
-        position:relative;
-        right:210px;
-    }
-    .one{
-        position:relative;
-        left:16px;
-    }
-    .box{
-        position:relative;
-        right:212px;
-    }
-    .text-p{
-        position:relative;
-        right:212px;
-        font-size: 60px;
-        line-height: 90px;
-    }
-    .contanier-fake{
-        position:relative;
-        right:211px;
-    }
-    .seven{
+        .exporetent{
+            display:inline-block !important;
+        }
+        centry{
+            position:relative;
+            right:210px;
+        }
+        .one{
+            position:relative;
+            left:16px;
+        }
+        .box{
+            position:relative;
+            right:212px;
+        }
+        .text-p{
+            position:relative;
+            right:212px;
+            font-size: 60px;
+            line-height: 90px;
+        }
+        .contanier-fake{
+            position:relative;
+            right:211px;
+        }
+        .seven{
+            display:none;}
+        .two{
+            position: relative;
+            left:514px;
+            }
+        .four{
+             position: relative;
+             left:265px;
+             }
+        .contanier{
+            width:790px;
+            height:1300px;
+            }
+        .box-centery{
+            display:none;
+                }
+            .line-holder{
+                display:inline-flex;
+                    }
+                .three{
+                     display:none;
+                        }
+     .five{
         display:none;
-    }
-    .two{
-        position: relative;
-        left:514px;
-    }
-    .four{
-        position: relative;
-        left:265px;
-    }
-    .contanier{
-        width:790px;
-        height:1300px;
-    }
-    .box-centery{
-        display:none;
-    }
-    .line-holder{
-        display:inline-flex;
-    }
-    .three{
-        display:none;
-    }
-    .five{
-        display:none;
-    }
+        }
     .six{
         display:none;
-    }
-    .contanier-two{
+        }
+        .contanier-two{
         position:relative;
         bottom:187px;
         height:3100px;
-    }
-    .popular{
-        position:relative;
-        right:211px;
-        font-size: 57px;
-        letter-spacing:0.1px;
-        line-height: 80px;
-        font-weight: 600;
-        bottom:70px;
-    }
-    .cards-one{
-        position:relative;
-        right:211px;
-        bottom:100px;
-    }
-    .cards-two{
+        }
+        .popular{
+              position:relative;
+              right:211px;
+             font-size: 57px;
+             letter-spacing:0.1px;
+             line-height: 80px;
+             font-weight: 600;
+             bottom:70px;
+        }
+        .cards-one{
+                position:relative;
+             right:211px;
+              bottom:100px;
+         }
+        .cards-two{
         position:relative;
         right:1209px;
         top:550px;
-    }
-    .cards-three{
-        position:relative;
-        right:211px;
-        top:430px;
-    }
-    .cards-four{
+        }
+        .cards-three{
+            position:relative;  
+            right:211px;
+            top:430px;
+            }
+        .cards-four{
         position:relative;
         right:1074px;
         top:1110px;
        }
-    .ertyuiop{
-        width:470px;
-        height:360px;
-    }
-    .class-foto{
-        position:relative;
-        bottom:12px;
-    }
-    .product{
-        position:relative;
-        bottom:21px;
-        font-size:32px;
-        line-height: 40px;
-    }
-    .description{
-        position:relative;
-        bottom:15px;
+        .ertyuiop{
+             width:470px;
+                height:360px;
+        }
+        .class-foto{
+             position:relative;
+                bottom:12px;
+        }
+        .product{
+                position:relative;
+             bottom:21px;
+             font-size:32px;
+             line-height: 40px;
+        }
+             .description{
+             position:relative;
+             bottom:15px;
         
+        }
+        .qwertybear{
+             width:470px;
+                height:360px !important;}
     }
-    .qwertybear{
-        width:470px;
-        height:360px;
-    }
-
-}
