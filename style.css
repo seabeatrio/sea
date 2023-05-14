@@ -442,7 +442,7 @@ margin-top:17px;
 .popular{
     margin-top: 130px;
 }
-@media(max-width:790px){
+@media(max-width:1290px){
     .links{
         display:none !important;
     }
@@ -482,8 +482,8 @@ margin-top:17px;
              left:265px;
              }
         .contanier{
-            width:790px;
-            height:1300px;
+            max-width:1290px;
+            max-height:1300px;
             }
         .box-centery{
             display:none;
@@ -503,7 +503,8 @@ margin-top:17px;
         .contanier-two{
         position:relative;
         bottom:187px;
-        height:3100px;
+        max-height:3100px;
+        max-width:1290px;
         }
         .popular{
               position:relative;
@@ -554,6 +555,6 @@ margin-top:17px;
         
         }
         .qwertybear{
-             width:470px;
-                height:360px !important;}
+             max-width:470px;
+                max-height:360px !important;}
     }
