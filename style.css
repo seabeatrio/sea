@@ -193,8 +193,6 @@ font-family: 'Poppins', sans-serif;
 
 }
 .contanier-low{
-    width:1400px;
-    height:400px;
     margin-top:50px;
 }
 .contanier-holder{
@@ -412,16 +410,12 @@ margin-top:17px;
     margin-top:-2538px;
     display:flex;
     flex-wrap: nowrap;
-    width:100%;
 }
 .dfig{
     margin-left:245px;
 }
 .exporetent{
     display:none;
-}
-.contanier-cards{
-    width:1358px;
 }
 .cards-one{
     margin-top:100px;
@@ -440,12 +434,12 @@ margin-top:17px;
 .popular{
     margin-top: 130px;
 }
-@media(max-width:1290px){
+@media(max-width:790px){
     .links{
-        display:none !important;
+        display:none;
     }
         .exporetent{
-            display:inline-block !important;
+            display:inline-block;
         }
         .centry{
             position:relative;
@@ -478,10 +472,6 @@ margin-top:17px;
         .four{
              position: relative;
              left:265px;
-             }
-        .contanier{
-            max-width:1290px;
-            max-height:1300px;
             }
         .box-centery{
             display:none;
@@ -501,8 +491,6 @@ margin-top:17px;
         .contanier-two{
         position:relative;
         bottom:187px;
-        max-height:3100px;
-        max-width:1290px;
         }
         .popular{
               position:relative;
@@ -554,5 +542,5 @@ margin-top:17px;
         }
         .qwertybear{
              max-width:470px;
-                max-height:360px !important;}
+                max-height:360px;}
     }
