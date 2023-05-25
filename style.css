@@ -435,6 +435,21 @@ margin-top:17px;
     margin-top: 130px;
 }
 @media(max-width:790px){
+    .main-reverse{
+        display:none;
+    }
+    .contanier-men{
+        display:none;
+    }
+    .contanier-two{
+        display:none;
+    }
+    .about{
+        display:none;
+    }
+    .contaiener-text{
+        width:300px;
+    }
     .links{
         display:none;
     }
@@ -543,4 +558,10 @@ margin-top:17px;
         .qwertybear{
              max-width:470px;
                 max-height:360px;}
+                .text-p{
+                    width:500px;
+                }
+                .class-text{
+                    width:200px;
+                }
     }
