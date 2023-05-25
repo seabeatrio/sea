@@ -5,7 +5,7 @@
 }
 .contanier{
    background-color:#1a1a1a;
-   max-height:170vh;
+  
    
 }
 
@@ -125,25 +125,25 @@ flex-direction: row;
 font-family: 'Poppins', sans-serif;
 }
 .two{
-    height:3000px;
+    height:1400px;
     width:0.1px;background-color: #e5e5e512;}
-.seven{height:3000px;margin-right: 20px;
+.seven{height:1400px;margin-right: 20px;
     width:0.1px;background-color:#e5e5e512;}
-.four{height:3000px;
+.four{height:1400px;
     width:0.1px;background-color:#e5e5e512;}
-.three{height:3000px;
+.three{height:1400px;
     width:0.1px;background-color:#e5e5e512;}
-.one{height:3000px;margin-left: 20px;
+.one{height:1400px;margin-left: 20px;
     width:0.1px;background-color:#e5e5e512;}
-.five{height:3000px;
+.five{height:1400px;
     width:0.1px;background-color:#e5e5e512;
    }
-.six{height:3000px;
+.six{height:1400px;
     width:0.1px;background-color:#e5e5e512;
    }
 .contanier-holder{
    position:relative;
-   bottom:3000px;
+   bottom:1500px;
    left:68px;
 }
 .blog-one{
@@ -322,36 +322,6 @@ margin-top:2px;
     max-width:400px;
 
 }
-
-.ertyuiop{
-    background-image: url(card-1.png);
-    width:540px;
-    height:360px;
-    display:flex;
-    align-items:flex-end;
-}
-.qwertybear{
-    background-image: url(card-4.png);
-    width:540px;
-    height:360px;
-    display:flex;
-    align-items:flex-end;
-}
-.ertypgh{
-    background-image: url(card-3.png);
-    width:360px;
-    height:360px;
-    display:flex;
-    align-items:flex-end;
-}
-.qwertyzxcv{
-    background-image: url(card-2.png);
-    width:360px;
-    height:360px;
-    display:flex;
-    align-items:flex-end;
-
-}
 .fifte{
     background-color:#fff;
     width:80px;
@@ -434,6 +404,10 @@ margin-top:17px;
 .popular{
     margin-top: 130px;
 }
+.contanier-low{
+    height:600px;
+    width:900px;
+}
 @media(max-width:790px){
     .main-reverse{
         display:none;
@@ -448,7 +422,7 @@ margin-top:17px;
         display:none;
     }
     .contaiener-text{
-        width:300px;
+        width:210px;
     }
     .links{
         display:none;
@@ -503,65 +477,25 @@ margin-top:17px;
     .six{
         display:none;
         }
-        .contanier-two{
-        position:relative;
-        bottom:187px;
-        }
-        .popular{
-              position:relative;
-              right:211px;
-             font-size: 57px;
-             letter-spacing:0.1px;
-             line-height: 80px;
-             font-weight: 600;
-             bottom:70px;
-        }
-        .cards-one{
-                position:relative;
-             right:211px;
-              bottom:100px;
-         }
-        .cards-two{
-        position:relative;
-        right:1209px;
-        top:550px;
-        }
-        .cards-three{
-            position:relative;  
-            right:211px;
-            top:430px;
-            }
-        .cards-four{
-        position:relative;
-        right:1074px;
-        top:1110px;
-       }
-        .ertyuiop{
-             width:470px;
-                height:360px;
-        }
         .class-foto{
              position:relative;
                 bottom:12px;
         }
-        .product{
-                position:relative;
-             bottom:21px;
-             font-size:32px;
-             line-height: 40px;
-        }
-             .description{
-             position:relative;
-             bottom:15px;
         
-        }
-        .qwertybear{
-             max-width:470px;
-                max-height:360px;}
                 .text-p{
-                    width:500px;
+                    width:400px;
                 }
                 .class-text{
                     width:200px;
+                }
+                .contanier-holder{
+                    position: relative;
+                    right:30px;
+                    width: 450px;
+                }
+                .contanier-low{
+                    position: relative;
+                    right:30px;
+                    width:400px;
                 }
     }
